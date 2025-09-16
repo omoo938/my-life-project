@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; text-align: center; background-color: #f0f0f0; color: #333; padding: 50px; } h1 { color: #ff69b4; /* ပန်းရောင် */ } p { font-size: 18px; line-height: 1.6; } img { max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px; }
+body { font-family: Arial, sans-serif; text-align: center; background-color: #f0f0f0; color: #333; padding: 50px; } h1 { color: #ff69b4; /* ပန်းရောင် */ } p { font-size: 18px; line-height: 1.6; } img { max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px; }
+![su-image jpg](https://github.com/user-attachments/assets/f270ae3c-c2c6-4f60-bf70-756e17fbf5d1)
